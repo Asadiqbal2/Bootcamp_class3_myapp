@@ -9,7 +9,7 @@ function App() {
      <br/>
      <Acadmey courseName="Ethical Hacking" onlineCourse="CCNA" />
      <br/>
-     <Acadmey courseName="Python" onlineCourse="GITHUB" />
+     <Acadmey courseName="Python" onlineCourse="GITHUB2" />
     </div>
   );
 }
