@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import Acadmey from './acadmey.js'
 function App() {
   return (
